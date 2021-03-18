@@ -12,6 +12,21 @@ The goal is to create a **single**, **flexible**, and **user-friendly** toolkit 
 
 | **[Discourse](https://speechbrain.discourse.group)** | **[Tutorials](https://speechbrain.github.io/tutorial_basics.html)** | **[Website](https://speechbrain.github.io/)** | **[Documentation](https://speechbrain.readthedocs.io/en/latest/index.html)** | **[Contributing](https://speechbrain.readthedocs.io/en/latest/contributing.html)** | **[HuggingFace](https://huggingface.co/speechbrain)** |
 
+# The API Documentation
+https://speechbrain.readthedocs.io/en/latest/index.html
+| API        | Introduce  |
+| ------------- |:-------------:|
+| speechbrain      | Comprehensive speech processing toolkit |
+| speechbrain.alignment      | Tools for aligning transcripts and speech signals|
+| speechbrain.dataio      | Data loading and dataset preprocessing |
+| speechbrain.decoders      | Package containing the different decoders (ctc, beamsearch …)|
+| speechbrain.lm      | Package defining language models|
+| speechbrain.lobes      | Package defining common blocks (DNN models, processing …)|
+| speechbrain.nnet      | Package containing the different neural networks layers|
+| speechbrain.processing    | Package containing various techniques of speech processing|
+| speechbrain.tokenizers   | Package defining the SentencePiece tokenizer|
+| speechbrain.utils    | Package containing various tools (accuracy, checkpoints …) |
+
 # Key features
 
 SpeechBrain provides various useful tools to speed up and facilitate research on speech technologies:
